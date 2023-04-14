@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Trisha Ganesh
+- 👀 I’m interested in computer science and mathematics. 
+- 🌱 I’m currently working on math and cs projects
+- 📫 How to reach me [Linkedin]([https://www.linkedin.com/in/trishaganesh/]).
